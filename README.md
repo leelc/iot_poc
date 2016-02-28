@@ -2,7 +2,7 @@
 
 This repository contains the implementation and setup details of an IoT application "Obstructing Objects Detector".
 
-The purpose of the application is to detect the presence of objects (including vehicles) causing obstructions in pubicly accessible locations by tracking its presence over a specific period of time. It has several potential applications, such as detecting illegal parking, detecting objects at emergency exits, detecting presence of passengers obstructing door entrance of arriving trains, etc.
+The purpose of the application is to detect the presence of objects (including vehicles) causing obstructions in publicly accessible locations by tracking its presence over a specific period of time. It has several potential applications, such as detecting illegal parking, detecting objects at emergency exits, detecting presence of passengers obstructing door entrance of arriving trains, etc.
 
 Hardware Required (recommended):
   (a) Raspberry Pi 2
@@ -16,7 +16,7 @@ Software Required:
   (a) Python 3.5
   (b) AWS
   (c) Slack
-  (c) script provided "ob_det.py"
+  (d) script provided "ob_det.py"
   
 Setup Instructions
   (a) Attach Raspberry Pi and GrovePi together
