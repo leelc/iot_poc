@@ -15,7 +15,8 @@ Hardware Required (recommended):
 Software Required:
   (a) Python 3.5
   (b) AWS
-  (c) script provided "obj_det.py"
+  (c) Slack
+  (c) script provided "ob_det.py"
   
 Setup Instructions
   (a) Attach Raspberry Pi and GrovePi together
@@ -38,7 +39,7 @@ The screen output should look like this "https://www.dropbox.com/s/se8735rp3j4z1
 Good Luck!!!
 
 LeeLC
-26 Dec 2015
+28 Feb 2016
 
   
   
