@@ -31,7 +31,7 @@ Setup of AWS
   (c) Copy the relevant certificates generated and copy into the Raspberry Pi
   (d) Create a new DynamoDB for the thing you created
 
-To run the program, type "python3.5 obj_det.py')
+To run the program, type "python3.5 ob_det.py')
 
 The screen output should look like this "https://www.dropbox.com/s/se8735rp3j4z1y6/demo-screen-output.txt?dl=0"
 
